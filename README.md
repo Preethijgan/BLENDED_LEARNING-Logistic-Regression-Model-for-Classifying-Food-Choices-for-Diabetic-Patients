@@ -104,7 +104,8 @@ plt.show()
 ```
 
 ## Output:
-
+![image](https://github.com/user-attachments/assets/1e30bdda-fab0-49a6-8d0d-e37c65677068)
+![image](https://github.com/user-attachments/assets/238b6b09-b554-453c-9d52-0ca0722f072b)
 
 
 ## Result:
